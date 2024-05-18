@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/api/:path*",
+      "destination": "https://https://logchimp-theme-ten.vercel.app/.up.railway.app/api/:path*"
+    }
+  ]
+}
